@@ -50,6 +50,24 @@ Com base nessas observações, é possível realizar a preparação dos dados cl
 <p>A engenharia de recursos, é o processo de usar o conhecimento do domínio para extrair características dos dados brutos. No contexto da análise de dados climáticos, serão acrescentadas as seguintes colunas para enriquecer a análise:</p>
 <img src="imagensUteis/FeatureEngineering.png">
 
+# Análise dos Dados
+
+<p>Serão realizadas análises exploratórias dos dados climáticos, respondendo às questões de pesquisa propostas. Isso pode envolver a criação de gráficos, visualizações e estatísticas descritivas para identificar padrões, correlações e tendências.</p>
+
+<h1>3.1 Variação Temporal das Temperaturas</h1>
+<p>Será analisada a variação das temperaturas ao longo do tempo, identificando possíveis padrões sazonais ou anomalias climáticas.</p>
+
+<h1>3.2 Relação entre Precipitação e Umidade Relativa</h1>
+<p>Será investigada a relação entre a precipitação e a umidade relativa, examinando se há uma correlação entre essas variáveis.</p>
+
+<h1>3.3 Tendência Sazonal das Variáveis Climáticas</h1>
+<p>Será explorada a tendência sazonal das variáveis climáticas, observando como elas se comportam em diferentes épocas do ano.</p>
+
+<h1>3.4 Extremos Climáticos</h1>
+<p>Serão identificados e analisados os extremos climáticos registrados, como picos de temperatura, eventos de precipitação intensa ou outras condições climáticas excepcionais.</p>
+
+<p>A análise dos dados climáticos fornecerá insights valiosos sobre as características e padrões do clima em uma determinada região, auxiliando na compreensão dos fenômenos climáticos e suas possíveis influências.</p>
+
 # Referências
 <p>Organizações meteorológicas nacionais, como o Instituto Nacional de Meteorologia (INMET) no Brasil, o National Weather Service (NWS) nos Estados Unidos, o Met Office no Reino Unido, entre outros.
 
