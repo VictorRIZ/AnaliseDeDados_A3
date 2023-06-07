@@ -34,7 +34,21 @@ A pressão atmosférica pode ser registrada em hectopascais (hPa) ou quilopascai
 A fonte dos dados climáticos deve ser mencionada para garantir a confiabilidade e rastreabilidade das informações utilizadas na análise.
 Com base nessas observações, é possível realizar a preparação dos dados climáticos antes de realizar a análise exploratória.</p>
 
+<h1>2.1 Configuração do ambiente</h1>
 
+<h1>2.2 Leitura de Dados</h1>
+<p>Os dados climáticos serão lidos a partir de uma fonte confiável, como uma estação meteorológica ou banco de dados climáticos disponíveis publicamente. Será realizado o processamento adequado para obter os dados em formato adequado para análise.</p>
+
+<h1>2.3 Organização e limpeza dos Dados</h1>
+<p>Será realizada uma limpeza inicial dos dados, tratando possíveis valores ausentes, inconsistências ou erros nos registros. Os dados serão organizados em estruturas adequadas, como tabelas ou estruturas de dados apropriadas para análise.</p>
+
+<h1>2.4 Mapeamento de dados</h1>
+<p>Para melhorar a análise e interpretação dos dados climáticos, os seguintes atributos serão modificados:</p>
+<img src="imagensUteis/MapeamentoDeDados.png">
+
+<h1>2.5 Feature Engineering</h1>
+<p>A engenharia de recursos, é o processo de usar o conhecimento do domínio para extrair características dos dados brutos. No contexto da análise de dados climáticos, serão acrescentadas as seguintes colunas para enriquecer a análise:</p>
+<img src="imagensUteis/FeatureEngineering.png">
 
 # Referências
 <p>Organizações meteorológicas nacionais, como o Instituto Nacional de Meteorologia (INMET) no Brasil, o National Weather Service (NWS) nos Estados Unidos, o Met Office no Reino Unido, entre outros.
